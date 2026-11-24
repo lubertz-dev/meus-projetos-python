@@ -1,7 +1,7 @@
 #Automação RPA Challenge
 Este projeto foi desenvolvido para resolver o desafio do site [RPA Challenge](https://rpachallenge.com/).
 
-## o que o script faz:
+## O que o script faz:
 1. Lê uma lista de dados (Nome, Empresa, Enderenço, etc.) de um arquivo Excel usando a biblioteca 'openpyxl'.
 2. Abre o navegador Google Chrome de forma automatizada usando 'Selenium'.
 3. Preenche os campos do formulário web dinamicamente (mesmo que a posição dos campos mude a cada tentativa).
